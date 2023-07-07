@@ -1,0 +1,3 @@
+runtime: python39
+# Default GAE App services would not have this service name declaration
+service: dtw-product-service  
